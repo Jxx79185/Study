@@ -1,0 +1,14 @@
+{
+    "syou": {
+        "password": "jxx123",
+        "attempts_left": 3
+    },
+    "kou": {
+        "password": "kkk123",
+        "attempts_left": 3
+    },
+    "ha": {
+        "password": "hahaha123",
+        "attempts_left": 3
+    }
+}

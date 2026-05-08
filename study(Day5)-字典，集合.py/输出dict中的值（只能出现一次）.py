@@ -1,0 +1,11 @@
+dic={'gfg':[5,6,7,8],'best':[6,12,10,8],'is':[10,11,7,5],'for':[1,2,5]}
+n=[]
+for i in dic:
+    for j in dic[i]:
+        if j not in n:
+            n.append(j)
+
+
+n.sort()
+print(n)
+
